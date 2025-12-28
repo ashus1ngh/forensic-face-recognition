@@ -1,0 +1,23 @@
+# Core Dependencies
+deepface
+tf-keras
+tensorflow
+opencv-contrib-python
+numpy
+pillow
+
+# GUI
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
+
+# Database
+cryptography
+
+# Optional (for better performance)
+mtcnn
+retina-face
+
+# Utilities (if you need them)
+pandas  # Uncomment if you use CSV/data processing
+reportlab  # Uncomment if you generate PDF reports
